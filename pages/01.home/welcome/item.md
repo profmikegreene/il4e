@@ -1,13 +1,14 @@
 ---
 title: 'Course Welcome'
-date: 01/04/2017
+date: '12:00 am 01/04/2017'
 header_image: '0'
 icon: users
 hide_from_post_list: false
 continue_link: false
+hide_git_sync_repo_link: false
 ---
 
-Welcome to the multi-device friendly course hub for CPT-363 Spring 2017. To help orientate yourself to the course, explore the [course syllabus](../../syllabus).
+Welcome to Information Literacy for Everyone (IL4E). To help orientate yourself to the course, explore the [course syllabus](../../syllabus).
 
 Any required preparations before each class will be posted here by Thursday of the previous week. Assigned weekly reading quizzes must be submitted before 10:00am the day of each class, and please bring a copy of your answers to class to help facilitate possible discussion.
 
