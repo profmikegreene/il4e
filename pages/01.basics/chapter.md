@@ -1,12 +1,13 @@
 ---
 title: Basics
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
-### Chapter 1
+### IL4E
 
-# Basics
+# What can I do here?
 
-Discover the **basic** principles
+Stuff...
